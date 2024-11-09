@@ -1,0 +1,20 @@
+{
+    "apps": {
+        "MX Player": "apks/apps/mx-player.json",
+        "Snaptube": "apks/apps/snaptube.json",
+        "Spotify": "apks/apps/spotify.json"
+    },
+    "games": {
+        "Pokemon-go": "apks/games/pokemon-go.json",
+        "Roblox": "apks/games/roblox.json",
+        "Tap-Titans-2": "apks/games/tap-titans-2.json"
+    },
+    "drive_links": {
+        "MX Player": "https://drive.google.com/uc?id=1BW_-sXCPH66P076cuXUukS8alD1wyBmf&export=download",
+        "Snaptube": "https://drive.google.com/uc?id=1JLCJvVDombF4ksZu0CH8K0U1SeCyxzVT&export=download",
+        "Spotify": "https://drive.google.com/uc?id=1JZHv9MKcj5XkVAJ1GUbNvQD_LujddSFQ&export=download",
+        "Pokemon-go": "https://drive.google.com/uc?id=1J_YCTQjBxFBl7YF-VQ9w98_XXI7dLaXs&export=download",
+        "Roblox": "https://drive.google.com/uc?id=1J_gsa72hBrrJj-aOhZvC8Pn4X34vkupz&export=download",
+        "Tap-Titans-2": "https://drive.google.com/uc?id=1JgjeIN_nY78nzs_zwdFYirTSSU1Nqv_x&export=download"
+    }
+}
